@@ -1,0 +1,6 @@
+online-supplier:
+  name: Online Supplier
+  description: Aquatic product supplies and sales all done online via their website
+physical-supplier:
+  name: Physical Supplier
+  description: Aquatic product supplies and sales all done via a physical store

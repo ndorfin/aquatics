@@ -1,0 +1,22 @@
+name: McMerwe Farms
+company-name: McMerwe Farms (Pty) Ltd
+trading-as: McMerwe
+url: https://mcmerwe.co.za/
+contact:
+  tel: +27614422487
+  email: info@mcmerwe.co.za
+branches:
+  -
+    contact:
+      tel: +27614422487
+      email: info@mcmerwe.co.za
+    address:
+      unit: Unit J2
+      complex: Okavango Junction
+      street: Kenwil Drive
+      suburb: Brackenfell
+      city: Cape Town
+      code: 7560
+services:
+  - online-supplier
+  - physical-supplier
