@@ -1,4 +1,4 @@
-name: McMerwe Farms
+name: McMerwe
 company-name: McMerwe Farms (Pty) Ltd
 trading-as: McMerwe
 url: https://mcmerwe.co.za/
@@ -7,9 +7,13 @@ contact:
   email: info@mcmerwe.co.za
 branches:
   -
+    name: Brackenfell
     contact:
       tel: +27614422487
       email: info@mcmerwe.co.za
+    gps:
+      lat: -33.860988
+      long: 18.699503
     address:
       unit: Unit J2
       complex: Okavango Junction

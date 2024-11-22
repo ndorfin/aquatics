@@ -1,0 +1,464 @@
+[
+	{
+		"name": "Aqua Wet Pets",
+		"lat": "-22.5608807",
+		"lng": "17.0657549",
+		"street": "R. Kamuhuka street no 8008, Windhoek, Namibia 8008 Namibia"
+	},
+	{
+		"name": "Hyde Aqua (Pty) Ltd",
+		"lat": "-24.6126821",
+		"lng": "25.9160197",
+		"street": "Plot 421 Masetlheng Ward, Kgonono Rd 00267 Tlokweng, Botswana",
+		"tel": "267 75 370 825",
+		"url": "http://www.hydeaqua.com/"
+	},
+	{
+		"name": "GMD Aquatics",
+		"lat": "-25.6806745",
+		"lng": "28.5223159",
+		"street": "52 Coronation Street Cullinan, Pretoria",
+		"tel": "072 465 4142"
+	},
+	{
+		"name": "Aqua Miracles",
+		"lat": "-25.6338648",
+		"lng": "27.7762922",
+		"street": "49 Harrington St, Brits, 0250",
+		"tel": "079 695 9365",
+		"url": "https://aqua-miracles.business.site/?utm_source=gmb&utm_medium=referral"
+	},
+	{
+		"name": "Pet Stop",
+		"lat": "-25.722792",
+		"lng": "28.2150934",
+		"street": "Rietfontein Pavilion Centre Co 15th & Jacobs Avenue Rietfontein, Pretoria 0084",
+		"tel": "012 329 8965"
+	},
+	{
+		"name": "Easy Scape",
+		"lat": "-25.7478676",
+		"lng": "28.2292712",
+		"city": "Pretoria",
+		"region": "Gauteng",
+		"email": "sales@easyscape.co.za",
+		"url": "https://easyscape.co.za/"
+	},
+	{
+		"name": "Pet and Pond",
+		"lat": "-25.7657303",
+		"lng": "28.3173218",
+		"street": "Shop 24, Willow Way Shopping Centre, Lynwood Road, Pretoria",
+		"tel": "012 807 5658",
+		"url": "http://petapond.co.za/"
+	},
+	{
+		"name": "Animal Kingdom Pretoria",
+		"lat": "-25.7885694",
+		"lng": "28.3070617",
+		"street": "Shop 2:15, Atterbury Value Mart Atterbury Road Faerie Glen, Pretoria North",
+		"tel": "012 991 4899",
+		"url": "http://www.animal-kingdom.co.za/"
+	},
+	{
+		"name": "Art Of Aqua",
+		"lat": "-25.799493",
+		"lng": "28.339348",
+		"street": "17 Elfstone St, Bronberg, Pretoria, 0081",
+		"tel": "083 805 8806",
+		"email": "francois@artofaqua.co.za",
+		"url": "http://www.artofaqua.com/"
+	},
+	{
+		"name": "Exclusive Pets",
+		"lat": "-25.856246",
+		"lng": "28.180815",
+		"street": "Bazaruto Centre South Street, Centurion Pretoria",
+		"tel": "012 663 7469",
+		"url": "http://exclusivepets.co.za/"
+	},
+	{
+		"name": "Dorry Pets",
+		"lat": "-25.865605",
+		"lng": "28.1668317",
+		"street": "Edison Centre Shop 3 c/o Jacaranda Str & Edison Crescent Centurion",
+		"tel": "012 653 0351",
+		"url": "http://dorrypets.co.za/"
+	},
+	{
+		"name": "Orchidology",
+		"lat": "-25.930967",
+		"lng": "28.430048",
+		"street": "Bashewa, Pretoria East, 0056",
+		"tel": "078 306 2252",
+		"url": "https://www.orchidology.co.za/"
+	},
+	{
+		"name": "Jozi Pets",
+		"lat": "-25.99167",
+		"lng": "28.01007",
+		"street": "Shop 10,The Valley Shopping Centre 80 Broadacres Drive Dainfern 2191"
+	},
+	{
+		"name": "Jungle Aquatics",
+		"lat": "-26.0009178",
+		"lng": "27.9834677",
+		"street": "Broadacres Shopping Centre c/o Cedar and Valley Road Fourways, Sandton",
+		"tel": "011 467 6948",
+		"url": "https://www.jungleaquatics.com/"
+	},
+	{
+		"name": "Paradise Pets",
+		"lat": "-26.0168043",
+		"lng": "27.9996235",
+		"street": "Cedar Square Cedar Road Fourways"
+	},
+	{
+		"name": "Rebel Pets",
+		"lat": "-26.0929981",
+		"lng": "28.242704",
+		"street": "Shop 6A, Nimrod Centre Cnr Pienaar Ave & Van Riebeeck Street Nimrod Park Kempton Park",
+		"tel": "087 821 7161, 074 498 1236",
+		"url": "http://www.rebelpets.co.za/"
+	},
+	{
+		"name": "VIP Pets Northgate",
+		"lat": "-26.0613783",
+		"lng": "27.9452655",
+		"street": "Northgate Shop 32-34 Northgate Shopping Centre Olievenhout Avenue & Northumberland Road North Riding",
+		"tel": "011 794 8508",
+		"url": "https://www.northgate.co.za/store/vip-pets/61965"
+	},
+	{
+		"name": "Wild on Pets",
+		"lat": "-26.1218751",
+		"lng": "28.1433595",
+		"street": "Greenstone Crescent Shopping Centre Cnr Stoneridge Drive & Greenstone Place Edenvale, Gauteng",
+		"tel": "011 452 4870",
+		"url": "http://www.wildonpets.co.za/"
+	},
+	{
+		"name": "Marine Aquatics",
+		"lat": "-26.1211952",
+		"lng": "28.1384509",
+		"street": "Eden Meadows Centre Van Riebeeck Ave Edenvale, 1609"
+	},
+	{
+		"name": "Marine Aquatics/Premium Aquatics",
+		"tel": "083 556 8265",
+		"email": "info@premiumaquatics.co.za",
+		"url": "https://www.premiumaquatics.co.za/"
+	},
+	{
+		"name": "Lifestyle Pet Hyper",
+		"lat": "-26.0955983",
+		"lng": "27.9428827",
+		"street": "Lifestyle Garden Centre, Beyers Naude Drive, Randpark Ridge, Johannesburg, 2156",
+		"tel": "011 793 3751",
+		"url": "http://www.lifestylepethyper.co.za/"
+	},
+	{
+		"name": "Aqua Empire",
+		"lat": "-26.09809",
+		"lng": "27.95249",
+		"street": "2 Ysterhout Drive , Randpark Ridge",
+		"tel": "084 625 9757",
+		"url": "http://www.aquaempire.net/"
+	},
+	{
+		"name": "Exotic Pets & Aquarium (Benoni)",
+		"lat": "-26.1500271",
+		"lng": "28.3110775",
+		"street": "Shop 55B, Oakfields Shopping Centre Corner Oak & Hanekam Street Northmead, Benoni",
+		"tel": "011 425 2577",
+		"email": "exaqua@mweb.co.za",
+		"url": "http://exoticaquariums.co.za/"
+	},
+	{
+		"name": "Exotic Aquarium and Pets Pretoria",
+		"street": "Wonderboom Bird Park, Corner Lavender and Braam Pretorius street, Pretoria, Gauteng, 0182",
+		"tel": "0125674272",
+		"email": "exaqua@mweb.co.za",
+		"url": "http://exoticaquariums.co.za/"
+	},
+	{
+		"name": "BetterWeather",
+		"lat": "-26.1491417",
+		"lng": "28.140381",
+		"street": "38 Takapuna Complex Juniper Drive, Ext 4 Dower Glen Edenvale",
+		"tel": "076 488 2862",
+		"url": "http://www.betterweather.co.za/"
+	},
+	{
+		"name": "VIP Pets Littlefalls",
+		"lat": "-26.1155706",
+		"lng": "27.8970374",
+		"street": "Shop 9 Retail Crossing c/o Hendrik Potgieter and, Nic Diederichs Rd, Roodepoort, 1724",
+		"tel": "011 475 3101"
+	},
+	{
+		"name": "Repzotix Pet Hyper",
+		"lat": "-26.156663",
+		"lng": "28.166253",
+		"street": "Unit 1 Meadowdale Industrial Park, Herman St, Meadowdale, Johannesburg, 1614",
+		"tel": "071 641 4899, 011 454 0917",
+		"url": "http://www.repzotix.co.za/"
+	},
+	{
+		"name": "Interpet Cresta",
+		"lat": "-26.1296129",
+		"lng": "27.9731772",
+		"street": "Shop 63, Cresta Shopping Centre Beyers Naude Drive Randburg, 2118",
+		"tel": "011 476 3628",
+		"url": "https://www.interpet.co.za/"
+	},
+	{
+		"name": "Pet Masters",
+		"lat": "-26.1798383",
+		"lng": "28.2686065",
+		"street": "7 North Rand Road Boksburg"
+	},
+	{
+		"name": "Our Pets Norwood",
+		"lat": "-26.1599499",
+		"lng": "28.07597",
+		"street": "45 Grant Avenue Norwood Johannesburg, 2192",
+		"tel": "011 483 3536",
+		"url": "http://ourpets.co.za/"
+	},
+	{
+		"name": "Loolilocks",
+		"lat": "-26.187963",
+		"lng": "28.253415",
+		"street": "487 Trichardt Road Boksburg",
+		"tel": "011 918 1198"
+	},
+	{
+		"name": "Wazeer's Aquarium",
+		"lat": "-26.2087736",
+		"lng": "28.262419",
+		"street": "c/o Cason Road and Trichardt Road Boksburg 1459",
+		"tel": "011 892 0371",
+		"url": "http://www.wazeersaquariums.co.za/"
+	},
+	{
+		"name": "Wazeer's Aquarium",
+		"lat": "-26.2325897",
+		"lng": "28.2409671",
+		"street": "Corner Oosthuizen and Frank Roads Boksburg 1457",
+		"tel": "011 826 5887",
+		"url": "http://www.wazeersaquariums.co.za/"
+	},
+	{
+		"name": "Turf Pet Hyper",
+		"lat": "-26.24511",
+		"lng": "28.04016",
+		"street": "77 Tramway Street Turfontein Johannesburg South",
+		"tel": "082 370 8609",
+		"url": "http://www.turfhyper.co.za/"
+	},
+	{
+		"name": "Pets & Josies T/A PET MASTERS",
+		"lat": "-26.2658258",
+		"lng": "28.1206429",
+		"street": "17 Clinton Road New Redruth Alberton"
+	},
+	{
+		"name": "The Glass Garden",
+		"lat": "-26.2707593",
+		"lng": "28.1122679",
+		"region": "Gauteng",
+		"tel": "072 500 0054",
+		"url": "https://www.theglassgarden.co.za/"
+	},
+	{
+		"name": "Cabin Aquarium & Nursery",
+		"lat": "-26.2698335",
+		"lng": "28.0075269",
+		"street": "182 Floreston Rd, Mondeor, Johannesburg South, 2091",
+		"tel": " 072 299 2865",
+		"email": "gregtoplis@gmail.com",
+		"url": "https://www.facebook.com/Cabinaquarium/"
+	},
+	{
+		"name": "Amazon Pets",
+		"lat": "-26.318655",
+		"lng": "27.82738",
+		"street": "34B Concord Place, Gemsbok Street Extension 1 Lenasia",
+		"tel": "011 852 2948"
+	},
+	{
+		"name": "Easy Aquariums & Pets",
+		"lat": "-26.7147791",
+		"lng": "27.1122693",
+		"street": "35 Parys Ave. Die koelte tuin Baillie Park Potchefstroom, 2531",
+		"tel": "018 294 4770",
+		"url": "https://easy-aquariums-and-pets.business.site/?utm_source=gmb&utm_medium=referral"
+	},
+	{
+		"name": "ADA KZN",
+		"lat": "-28.5305539",
+		"lng": "30.8958242",
+		"street": "KwaZulu-Natal",
+		"url": "http://www.adakzn.co.za/"
+	},
+	{
+		"name": "Karnel Pets",
+		"lat": "-27.9904051",
+		"lng": "26.7127984",
+		"street": "3 Tugela Cir, St Helena, Welkom, 9460",
+		"tel": "076 277 3712"
+	},
+	{
+		"name": "Supreme Pets",
+		"lat": "-28.7527081",
+		"lng": "32.0528192",
+		"street": " Unit C4, PEG Centre, 20 Lira Link 3900 Richards Bay, South Africa",
+		"tel": "035 789 7777",
+		"url": "https://www.facebook.com/sublimepets/"
+	},
+	{
+		"name": "Forever Pets",
+		"lat": "-28.7219629",
+		"lng": "24.7735133",
+		"street": "7 Hornby Street Turner Road Area Kimberley",
+		"tel": "083 469 4880"
+	},
+	{
+		"name": "Diamond Seeds and Pet Supplies",
+		"lat": "-28.74317",
+		"lng": "24.75569",
+		"street": "111 George Street",
+		"city": "Kimberley",
+		"region": "Northern Cape",
+		"tel": "053 831 2619",
+		"url": "https://diamondpigeonstud.co.za/"
+	},
+	{
+		"name": "Doolittles Exotic Pets",
+		"lat": "-29.60035",
+		"lng": "30.35948",
+		"street": "101 Roberts Road Clarendon Pietermaritzburg",
+		"tel": "079 040 3682",
+		"url": "http://www.doolittles.co.za/"
+	},
+	{
+		"name": "Eurospirit",
+		"lat": "-29.7751144",
+		"lng": "31.0348369",
+		"street": "Shop 5, Arcadia 87 Umhlanga Rocks Dr Durban North, Durban",
+		"tel": "031 563 1159",
+		"url": "http://www.eurospirit.co.za/"
+	},
+	{
+		"name": "Hillcrest Pets and Aquarium",
+		"lat": "-29.778407",
+		"lng": "30.765617",
+		"street": "Shop 11, Elangeni Centre 9 Inanda Road Hillcrest, KZN",
+		"tel": "031 765 2464",
+		"url": "http://www.hillcrestpets.co.za/"
+	},
+	{
+		"name": "Something Exotic Pets & Aquatics",
+		"lat": "-29.7859658",
+		"lng": "30.7714295",
+		"street": "Unit 1, Bailey Centre 2 Builders Way Hillcrest, KZN",
+		"tel": "031 765 3247",
+		"url": "https://www.facebook.com/SEPetsandAquatics/"
+	},
+	{
+		"name": "Durban Pets & Aquarium",
+		"lat": "-29.85986699999999",
+		"lng": "31.009271",
+		"street": "60 Berea Road Durban",
+		"tel": "031 306 3741",
+		"url": "https://m.facebook.com/durbanpets/"
+	},
+	{
+		"name": "Pet Professionals",
+		"lat": "-29.860444",
+		"lng": "31.00096599999999",
+		"street": "Shops 16 - 18, Davenport Square 89 Brand Road Berea Durban, 4001",
+		"tel": "031 202 9126"
+	},
+	{
+		"name": "KingCoral",
+		"lat": "-30.559482",
+		"lng": "22.937506",
+		"street": "South Africa",
+		"tel": "084 977 8313",
+		"url": "https://www.kingcoral.co.za/"
+	},
+	{
+		"name": "DIE KRAAINES",
+		"lat": "-33.7999889",
+		"lng": "25.470292",
+		"street": "51 main street Despatch 6220",
+		"tel": "041 933 1987",
+		"url": "http://www.diekraaines.co.za/"
+	},
+	{
+		"name": "Bellaby Aquariums",
+		"lat": "-33.948803",
+		"lng": "25.5247609",
+		"street": "13 Bellaby St, Framesby, Port Elizabeth, 6045",
+		"tel": "061 416 2016",
+		"email": "info@bellabyaquariums.co.za",
+		"url": "https://bellabyaquariums.co.za/"
+	},
+	{
+		"name": "Hartlands Aquatics",
+		"lat": "-33.382056",
+		"lng": "18.900738",
+		"street": "c/o Main & Hermon Street Riebeek Kasteel Cape Town, Western Cape, 7307",
+		"email": "hartlandsaquatics@gmail.com",
+		"tel": "072 440 1642"
+	},
+	{
+		"name": "Shrimp Stop",
+		"lat": "-33.4591507",
+		"lng": "18.731685",
+		"street": "19 Vrede Straat Malmesbury Western Cape, 7300",
+		"tel": "060 489 3433"
+	},
+	{
+		"name": "Petworld Cape Gate",
+		"lat": "-33.8509869",
+		"lng": "18.6933087",
+		"street": "Lifestyle Centre Magnifica Road Brackenfell",
+		"tel": "021 981 3605",
+		"url": "http://www.petworld.co.za/"
+	},
+	{
+		"name": "RBM AQUATICS",
+		"lat": "-33.8899014",
+		"lng": "18.6325621",
+		"street": "7 Aylesbury Road Bellville 7530",
+		"tel": "082 300 6177",
+		"url": "http://www.rbmaquatics.co.za/"
+	},
+	{
+		"name": "Petworld Goodwood",
+		"lat": "-33.8914089",
+		"lng": "18.554934",
+		"street": "N1 City Value Centre 7 Solly Smiedt Street Goodwood Cape Town, Western Cape",
+		"tel": "021 595 1985",
+		"url": "http://www.petworld.co.za/"
+	},
+	{
+		"name": "PetWorld Somerset West",
+		"lat": "-34.0869167",
+		"lng": "18.8274466",
+		"street": "The Pines C/O Forsyth & Jigger Avenue Somerset West",
+		"tel": "021 851 6006",
+		"url": "http://www.petworld.co.za/"
+	},
+	{
+		"name": "Sam's Aquarium",
+		"lat": "-34.0526741",
+		"lng": "18.4565975",
+		"street": "Shop 3 Sherwood Shop Ctr Bergvliet, Dreyersdal Rd, Bergvliet, Cape Town, 7945",
+		"tel": "021 712 2534",
+		"url": "http://samsaquarium.co.za/"
+	}
+]
